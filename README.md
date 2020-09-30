@@ -1,7 +1,8 @@
-### Hi there 👋
+## Hello World!
 
-### Hello World
+### Bio
 
+### Work
 <!--
 **Jue-Xu/Jue-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
