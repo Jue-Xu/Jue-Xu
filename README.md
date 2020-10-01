@@ -1,11 +1,10 @@
-## Hello World!
+### Hello World!
 
-### Bio
+- I’m currently working on ...
+- 
 
-### Work
 <!--
 **Jue-Xu/Jue-Xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 Here are some ideas to get you started:
 
@@ -18,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
