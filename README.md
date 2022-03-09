@@ -1,6 +1,6 @@
 ### Hello World!
 
-jue-xu.github.io/
+[jue-xu.github.io](jue-xu.github.io)
 
 <!-- - I’m currently working on ...
 -  -->
