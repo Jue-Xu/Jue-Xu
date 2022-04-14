@@ -1,6 +1,7 @@
 ### Hello World!
 
-[jue-xu.github.io](https://jue-xu.github.io/)
+<!-- [jue-xu.github.io](https://jue-xu.github.io/) -->
+<!-- indie? open science? -->
 
 <!-- - I’m currently working on ...
 -  -->
