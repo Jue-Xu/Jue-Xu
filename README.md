@@ -1,4 +1,4 @@
-### Hello World!
+### Hello World! Hello GitHub!
 
 <!-- [jue-xu.github.io](https://jue-xu.github.io/) -->
 <!-- indie? open science? -->
