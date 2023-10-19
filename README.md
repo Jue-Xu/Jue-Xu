@@ -1,8 +1,8 @@
 ## Hello World! Hello GitHub!
 
-- 🔭 I’m currently working on research of quantum computation and information.
-- 👯 I’m looking to collaborate on the project, such as quantum simulation and complexity of quantum computation.
-- 💼 I'm also looking for the opportunity to work or intern in the industry.
+- 🔭 I’m currently working on research of `quantum computation and information`.
+- 👯 I’m looking to collaborate on the project, such as `quantum simulation` and `quantum complexity`.
+- 💼 I'm also looking for the opportunity to work or intern in the `industry`.
 - 📫 How to reach me: xujue_at_connect_dot_hku_dot_hk
   
 <!-- [jue-xu.github.io](https://jue-xu.github.io/) -->
